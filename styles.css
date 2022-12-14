@@ -246,7 +246,7 @@ body {
     width: 90%;
     height: 80px;
     border: 1px solid #BFBFBF;
-    
+    resize: none;
     margin-top: 20px;
 }
 
